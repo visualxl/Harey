@@ -18,4 +18,4 @@ I am making this project public because I don't think I can completely tweak it 
 
 Feel free to download the source code, modify it, and let me know if you found the perfect combination.
 
-I have attached the relevant SET files as well. Pay attention to silver.
+I have attached the relevant SET files as well. Pay attention to silver. Adjust the lot size manually for metals/CFDs because the MM module only work for currencies.
