@@ -1,0 +1,11 @@
+MagicNumber=211120203
+AutoLotSize=1
+Risk=1.0
+LotSize=0.1
+StartRestHour=3
+EndRestHour=8
+MaxOpenTrades=1
+StopLoss=15
+TakeProfit=15
+RSI_Oversold=40
+RSI_Overbought=90
