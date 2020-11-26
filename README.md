@@ -1,5 +1,5 @@
 # Harey
-An RSI based EA. It is not profitable in the long run... at the moment. More tests and tweaks need to be done before it can be used on live account(s).
+An EA based on the RSI & Stochastic indicator. It is not profitable in the long run... at the moment. More tests and tweaks need to be done before it can be used on live account(s).
 
 Timeframe: M5
 
